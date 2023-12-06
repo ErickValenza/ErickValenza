@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ErickValenza
+- 👀 I’m interested in Js programming 
+- 🌱 I’m currently learning Javascript..
